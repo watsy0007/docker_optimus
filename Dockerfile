@@ -1,4 +1,4 @@
-FROM zhulux/rails_gems:5.0.0.1
+FROM watsy0007/rails_gems:5.0.0.1
 
 RUN apt-get update && \
     apt-get install nodejs -y && \
